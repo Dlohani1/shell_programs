@@ -1,0 +1,33 @@
+Git Commands
+
+1) git clone
+
+2) git init
+
+3) git remote add origin repo_url
+
+4) git config --list
+
+5) git remote -v 
+
+6) git config --global user.email "your email "
+
+7) git branch branch_name
+
+8) git checkout branch_name
+
+9) git checkout -b branch_name
+
+10) git add filename
+
+11) git add *
+
+12) git add .
+
+13) git add -A
+
+14) git commit -m "message"
+
+15) git push origin branch_name
+
+16) git pull origin branch_name
