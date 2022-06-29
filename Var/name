@@ -1,2 +1,0 @@
-## 02)Write a shell script to create variable 
- echo " $1 $2 "
