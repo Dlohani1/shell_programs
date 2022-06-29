@@ -1,0 +1,27 @@
+Shell Scripting Questions
+
+1) Write a shell script to print "Hello World" 
+
+2) Write a shell script to create variable and print the variable
+      - you can write your name in one variable and print it 
+      - you can write your age in another variable and print it
+
+3) Write a shell script to add two nos using built in variables
+
+4) Write a shell script to add two nos using command line arguments
+
+5) Write a shell script to add two nos using user input 
+   - use 'read' command
+
+6) Write a shell script to find the greatest of two nos
+
+7) Write a shell script to find the greatest of three nos
+
+8) Write a shell script to check if the given file or directory exist or not
+
+9) Write a shell script to print 5 4 3 2 1 using while loop
+
+10) Write a shell script to print given number sum of all digits
+
+
+
