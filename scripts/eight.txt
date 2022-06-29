@@ -1,0 +1,9 @@
+#8) Write a shell script to check if the given file or directory exist or not
+#script :-
+read -p "Enter your file name : " file
+if [ -f "$file" ]
+then
+echo "File exist : " $file
+else
+echo "File not exist"
+fi

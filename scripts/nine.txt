@@ -1,0 +1,8 @@
+#9) Write a shell script to print 5 4 3 2 1 using while loop
+#script:-
+i=5
+while [ $i -gt 0 ]
+do
+echo "$i"
+i=`expr $i - 1`
+done

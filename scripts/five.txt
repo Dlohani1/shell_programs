@@ -1,0 +1,7 @@
+#5) Write a shell script to add two nos using user input 
+ #  - use 'read' command
+#script :-
+read -p "Enter first num " num1
+read -p "Enter second num " num2
+sum=`expr $num1 + $num2`
+echo "The sum of two number is : " $sum

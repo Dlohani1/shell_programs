@@ -1,0 +1,6 @@
+#4) Write a shell script to add two nos using command line arguments
+#script :-
+num1=1
+num2=2
+sum=$(( $1 + $2 ))
+echo "sum is : $sum"

@@ -1,0 +1,8 @@
+#2) Write a shell script to create variable and print the variable
+ #     - you can write your name in one variable and print it 
+  #    - you can write your age in another variable and print it
+#script:-
+Name=$1
+Age=$2
+echo "Your name is : $1"
+echo "Your age is : $2"

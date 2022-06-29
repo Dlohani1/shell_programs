@@ -1,0 +1,12 @@
+#10) Write a shell script to print given number sum of all digits
+#script :-
+read -p "Enter any  number : " num
+rem=0
+sum=0
+while [ $num -gt 0 ]
+do
+rem=`expr $num % 10`
+num=`expr $num / 10`
+sum=`expr $sum + $rem`
+done
+echo "The sum of three digits are : " $sum

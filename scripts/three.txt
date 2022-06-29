@@ -1,0 +1,6 @@
+#3) Write a shell script to add two nos using built in variables
+#script:-
+num1=10
+num2=20
+sum=$(($num1 + $num2))
+echo $sum
