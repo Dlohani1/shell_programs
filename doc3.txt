@@ -1,0 +1,16 @@
+Development Team
+
+Senior Dev -- 
+|
+| ( bug in login branch)
+Junior Dev -- 
+he will checkout to branch login
+git checkout login
+
+git checkout -b login-bug-fix
+
+branch - login-bug-fix
+he fixed the bug
+done the commit and pushed the branch login-bug-fix
+
+

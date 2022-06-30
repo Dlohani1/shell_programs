@@ -1,0 +1,56 @@
+Git -
+
+index - references
+
+
+head - stores the information of the last
+commit
+
+branch - main
+
+add file1.txt 
+commit - commit id - 1001  
+
+add file2.txt
+commit - commit id - 1002 ---head
+
+revert my commit 
+
+1) how to take a clone repo
+command - git clone repo_url
+
+2) how to initialize local folder to git repo
+command - git init
+        - git remote add origin repo_url
+3) how to check the status of the branch
+working area - where the files are still in
+development stage
+staging area - where the files are ready 
+for commit & push from local to remote repo
+
+command - git status
+
+4) how to see the difference between the files in the staging area and the file modified
+in the working area
+
+command - git diff filename
+
+5) how to add files from working area to staging area
+command - git add filename 
+        - git add file1 file2 
+        - git add . or git add * or git add -A 
+
+
+6) how to reset your files from staging area to working area
+command - git reset filename
+
+7) how to remove the modified changes from a file 
+  command - git checkout filename
+
+8) how to store git credentials
+git config --global credential.helper store
+
+9) how to merge the branch
+git merge branch
+
+

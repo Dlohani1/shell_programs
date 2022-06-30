@@ -1,0 +1,55 @@
+Github Server            Production Serve            Testing  Server         
+Branch                    
+master                     master                      feature
+testing
+feature
+login   login files
+register register files
+products  products files
+payment gateway payment files
+checkout checkout files
+profile  profile files
+
+master - login, register, products, payment, checkout , profile
+testing - login, register, products,payment,checkout,profile
+|
+|
+feature1 - created from testing
+login, register, products, payment, checkout, profile
+add  paylater 
+
+feature2 - created from testing
+login, register, products, payment,checkout, profile,
+add email notification
+
+I will change the branch in testing server from testing to feature1
+
+after testing 
+I will merge my feature1 branch with testing
+testing - along feature1
+I will merge my feature2 branch with testing
+testing---along feature2
+
+will change the branch to testing in testing server
+afte complete testing 
+
+we will merge with master branch
+
+In the production server we have branch 
+master - login, register, products, payment,checkout, profile,
+
+after merging master with testing branch
+
+master - login, register, products, payment,checkout, profile,
+         paylater, email notification
+
+production server
+we will pull the code from github
+
+
+
+
+
+
+
+
